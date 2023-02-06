@@ -1,1 +1,1 @@
-- Projeto de site dinâmnico - conclusão htm/css/js
+- Projeto de site dinâmnico - conclusão do curso htm/css/js
